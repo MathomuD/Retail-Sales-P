@@ -1,2 +1,2 @@
-# Retail-Sales-Python 1
-This is Python
+# Retail-Sales-Python 
+This is Python analysed retail sales
